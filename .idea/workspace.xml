@@ -4,14 +4,56 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fac28c90-e2d0-4cbd-9333-f39373115fb2" name="Changes" comment="" />
+    <list default="true" id="fac28c90-e2d0-4cbd-9333-f39373115fb2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/abstract_factory.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/horaoen/build/abstract_factory/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/horaoen/build/abstract_factory/button/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/horaoen/build/abstract_factory/button/MacOSButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/horaoen/build/abstract_factory/button/WindowsButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/horaoen/build/abstract_factory/checkbox/Checkbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/horaoen/build/abstract_factory/checkbox/MacOSCheckbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/horaoen/build/abstract_factory/checkbox/WindowsCheckbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/horaoen/build/abstract_factory/factories/GUIFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/horaoen/build/abstract_factory/factories/MacOSFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/horaoen/build/abstract_factory/factories/WindowsFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/horaoen/build/abstract_factory/AbstractFactoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/horaoen/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/horaoen/AppTest.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="build" />
+      </map>
+    </option>
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="cobsttz0" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2F9sWG9YkcffoR4tbf9x8nrDckz" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="false" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -21,9 +63,37 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="AbstractFactoryTest.basicTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.horaoen.build.abstract_factory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.horaoen.build.abstract_factory" />
+      <option name="MAIN_CLASS_NAME" value="com.horaoen.build.abstract_factory.AbstractFactoryTest" />
+      <option name="METHOD_NAME" value="basicTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AbstractFactoryTest.basicTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,7 +102,39 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663915666420</updated>
+      <workItem from="1663915667481" duration="2870000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="BEK_SORT_TYPE" value="1" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
