@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fac28c90-e2d0-4cbd-9333-f39373115fb2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/abstract_factory.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/horaoen/build/abstract_factory/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/horaoen/build/abstract_factory/button/Button.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/horaoen/build/abstract_factory/button/MacOSButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/horaoen/build/abstract_factory/button/WindowsButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/horaoen/build/abstract_factory/checkbox/Checkbox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/horaoen/build/abstract_factory/checkbox/MacOSCheckbox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/horaoen/build/abstract_factory/checkbox/WindowsCheckbox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/horaoen/build/abstract_factory/factories/GUIFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/horaoen/build/abstract_factory/factories/MacOSFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/horaoen/build/abstract_factory/factories/WindowsFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/horaoen/build/abstract_factory/AbstractFactoryTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/horaoen/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/horaoen/AppTest.java" beforeDir="false" />
-    </list>
+    <list default="true" id="fac28c90-e2d0-4cbd-9333-f39373115fb2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,7 +83,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663915666420</updated>
-      <workItem from="1663915667481" duration="2870000" />
+      <workItem from="1663915667481" duration="3194000" />
     </task>
     <servers />
   </component>
