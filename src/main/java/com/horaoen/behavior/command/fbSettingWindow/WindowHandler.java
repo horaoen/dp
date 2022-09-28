@@ -1,8 +1,10 @@
-package designpatterns.command;
+package com.horaoen.behavior.command.fbSettingWindow;
 
-//窗口处理类：请求接收者
+/**
+ * @author horaoen
+ */
 public class WindowHandler {
 	public void minimize() {
-		System.out.println("将窗口最小化至托盘！");
+		System.out.println("灏嗙獥鍙ｆ渶灏忓寲鑷虫墭鐩橈紒");
 	}
 }

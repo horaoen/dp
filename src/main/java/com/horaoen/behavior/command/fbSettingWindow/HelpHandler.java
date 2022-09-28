@@ -1,8 +1,10 @@
-package designpatterns.command;
+package com.horaoen.behavior.command.fbSettingWindow;
 
-//°ïÖúÎÄµµ´¦ÀíÀà£ºÇëÇó½ÓÊÕÕß
+/**
+ * @author horaoen
+ */
 public class HelpHandler {
 	public void display() {
-		System.out.println("ÏÔÊ¾°ïÖúÎÄµµ£¡");
+		System.out.println("æ˜¾ç¤ºå¸®åŠ©æ–‡æ¡£ï¼");
 	}
 }

@@ -1,6 +1,6 @@
 package com.horaoen.behavior.command;
 
-import com.horaoen.behavior.command.editor.Editor;
+import com.horaoen.behavior.command.editorWindow.editor.Editor;
 
 public class CommandBasicTest {
     public static void main(String[] args) {

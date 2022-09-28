@@ -1,6 +1,6 @@
-package com.horaoen.behavior.command.editor;
+package com.horaoen.behavior.command.editorWindow.editor;
 
-import com.horaoen.behavior.command.commands.*;
+import com.horaoen.behavior.command.editorWindow.commands.*;
 
 import javax.swing.*;
 import java.awt.*;

@@ -1,4 +1,4 @@
-package com.horaoen.behavior.command.commands;
+package com.horaoen.behavior.command.editorWindow.commands;
 
 import java.util.Stack;
 

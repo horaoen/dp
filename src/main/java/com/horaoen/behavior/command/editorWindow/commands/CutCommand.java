@@ -1,6 +1,6 @@
-package com.horaoen.behavior.command.commands;
+package com.horaoen.behavior.command.editorWindow.commands;
 
-import com.horaoen.behavior.command.editor.Editor;
+import com.horaoen.behavior.command.editorWindow.editor.Editor;
 
 /**
  * @author horaoen
